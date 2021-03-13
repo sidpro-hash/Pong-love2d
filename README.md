@@ -14,5 +14,5 @@ Pong Game using love2d
 
 - Extract PONG.rar to anywhere.
 - Open pong.exe by Double Click.
-- Press <code><b>Enter</b></code> to start.
-- Uses <code><b>W</b></code>,<code><b>S</b></code> and <code><b>UP</b></code> Arrow and <code><b>DOWN</b></code> Arrow. 
+- Press <code>*Enter*</code> to start.
+- Uses <code><span style="color:blue">*W*</span></code>,<code>*S*</code> and <code>*UP*</code> Arrow and <code>*DOWN*</code> Arrow. 
