@@ -10,7 +10,8 @@ Pong Game using love2d
 
 - No Requirements
 
-# How to Run?
+# How to Play?
 
 - Extract PONG.rar to anywhere.
 - Open pong.exe by Double Click.
+- Uses W,S and UP Arrow and Down Arrow. 
